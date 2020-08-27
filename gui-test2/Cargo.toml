@@ -1,0 +1,10 @@
+[package]
+name = "gui-test2"
+version = "0.1.0"
+authors = ["Zakgeki <45861741+Zakgeki@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+direct-gui = "0.1"
